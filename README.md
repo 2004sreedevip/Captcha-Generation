@@ -9,5 +9,5 @@ This project implements a two-step verification form using HTML, CSS and JavaScr
 - Validation using JavaScript
 
 ## Screenshots
-![Output 1](images/output1.png)
-![Output 2](images/output2.png)
+![Output 1](https://github.com/2004sreedevip/Captcha-Generation/blob/main/images/Output1%20(1).png)
+![Output 2]()
