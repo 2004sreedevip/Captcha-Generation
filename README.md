@@ -10,4 +10,4 @@ This project implements a two-step verification form using HTML, CSS and JavaScr
 
 ## Screenshots
 ![Output 1](https://github.com/2004sreedevip/Captcha-Generation/blob/main/images/Output1%20(1).png)
-![Output 2]()
+![Output 2](https://github.com/2004sreedevip/Captcha-Generation/blob/main/images/Output2%20(2).png)
